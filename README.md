@@ -13,3 +13,13 @@ I've made a simple scratch game which take themes on **Balinese culture and trad
 [![My scratch project](https://raw.githubusercontent.com/OriontDev/OriontDev/refs/heads/main/Images/Image2.png)](https://scratch.mit.edu/projects/1098043166)
 
 </div>
+</br>
+
+## Currently Learning
+- **HTML/CSS**
+- **C**
+- **Java**
+
+
+## Languages🌐
+**Speaking and learning :** Indonesian, English, Japanese, German
