@@ -21,7 +21,7 @@ I've made a simple scratch game which take themes on **Balinese culture and trad
 
 <h3>------------💻Languages💻------------</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,java,py,md)](https://skillicons.dev)
 
 </div>
 
