@@ -6,7 +6,8 @@
 > why just play video games, when you could create one too?🎮💻
 # ⚙️ Here comes my projects!
 
-I've made a simple scratch game which take themes on **Balinese culture and tradition**! it takes style from the infamous game OMORI! The name of the game is **"NADA NUSANTARA : BALI"**
+### NADA NUSANTARA : BALI
+a simple scratch game which take themes on **Balinese culture and tradition**! it takes style from the infamous game OMORI! the main goal of the game is to find lost traditional instruments.
 
 <div align="center">
 
@@ -14,10 +15,11 @@ I've made a simple scratch game which take themes on **Balinese culture and trad
 
 </div>
 
-I'm currently working on a platformer game project taking theme on geography and the countryball fandom! i'm using Construct 3 for this one!
+### POLAND can into space!
+A `platformer game` im currently working on, takes theme on **geography and countryballs** with the goal of sending `PolandBall` into space! The game is not finished yet and i'm working on this in `Construct 3`
 <div align="center">
 
-[![My scratch project](https://raw.githubusercontent.com/OriontDev/OriontDev/refs/heads/main/Images/Image2.png)](https://scratch.mit.edu/projects/1098043166)
+[![My Construct 3 project](https://raw.githubusercontent.com/OriontDev/OriontDev/refs/heads/main/Images/Images3.png)](https://scratch.mit.edu/projects/1098043166)
 
 </div>
 </br>
