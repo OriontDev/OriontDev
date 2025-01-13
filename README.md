@@ -7,7 +7,7 @@
 # ⚙️ Here comes my projects!
 
 ### NADA NUSANTARA : BALI
-a simple scratch game which take themes on **Balinese culture and tradition**! it takes style from the infamous game OMORI! the main goal of the game is to find lost traditional instruments.
+a simple `RPG` game which take themes on **Balinese culture and tradition**! it takes style from the infamous game OMORI made in **Scratch**! the main goal of the game is to find lost traditional instruments.
 
 <div align="center">
 
