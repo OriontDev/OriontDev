@@ -13,6 +13,13 @@ I've made a simple scratch game which take themes on **Balinese culture and trad
 [![My scratch project](https://raw.githubusercontent.com/OriontDev/OriontDev/refs/heads/main/Images/Image2.png)](https://scratch.mit.edu/projects/1098043166)
 
 </div>
+
+I'm currently working on a platformer game project taking theme on geography and the countryball fandom! i'm using Construct 3 for this one!
+<div align="center">
+
+[![My scratch project](https://raw.githubusercontent.com/OriontDev/OriontDev/refs/heads/main/Images/Image2.png)](https://scratch.mit.edu/projects/1098043166)
+
+</div>
 </br>
 
 ## Currently Learning👨‍💻
