@@ -1,14 +1,15 @@
 <div align="center">
-<h1> Nice to meet you! </h1>
+<h1> 🌟Nice to meet you!🌟 </h1>
 </div>
 
-### I'm Oriont Fedora, bla bla bla bla bla bla-
+### I'm Oriont Fedora, im a self-taught software and game development student!
+> why just play video games, when you could create one too?🎮💻
+# ⚙️ Here comes my projects!
 
-# Here comes my project
-
-description goes blablblablabla
+I've made a simple scratch game which take themes on **Balinese culture and tradition**! it takes style from the infamous game OMORI! The name of the game is **"NADA NUSANTARA : BALI"**
 
 <div align="center">
 
-[![Testing image](https://raw.githubusercontent.com/OriontDev/OriontDev/refs/heads/main/Images/image2.jpg)](https://scratch.mit.edu/projects/1098043166)
+[![My scratch project](https://raw.githubusercontent.com/OriontDev/OriontDev/refs/heads/main/Images/image2.jpg)](https://scratch.mit.edu/projects/1098043166)
 
+</div>
