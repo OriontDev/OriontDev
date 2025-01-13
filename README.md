@@ -17,27 +17,26 @@ I've made a simple scratch game which take themes on **Balinese culture and trad
 
 ## Currently Learning👨‍💻
 
-### Languages :
-
 <div align="center">
+
+<h3>Languages</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,java,py)](https://skillicons.dev)
 
 </div>
 
-
-### Tools :
-
 <div align="center">
+
+<h3>Tools i use</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=robloxstudio,vscode,github)](https://skillicons.dev)
 
 </div>
 
 
-## Contact me!☎️
-
 <div align="center">
+
+<h3>Contact me!</h3>
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/oriont_macc/?igsh=MWQ1bXhhM296YXlvOA%3D%3D#)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:madeoriontfedora@gmail.com)
