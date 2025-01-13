@@ -1,8 +1,8 @@
 <div align="center">
-<h1> 🌟Nice to meet you!🌟 </h1>
+<h1> 👾🌟Nice to meet you!🌟👾 </h1>
 </div>
 
-### I'm Oriont Fedora, im a self-taught software and game development student!
+### I'm Oriont Fedora, im a self-taught software and game development student!✨
 > why just play video games, when you could create one too?🎮💻
 # ⚙️ Here comes my projects!
 
@@ -15,7 +15,7 @@ I've made a simple scratch game which take themes on **Balinese culture and trad
 </div>
 </br>
 
-## Currently Learning
+## Currently Learning👨‍💻
 - **HTML/CSS**
 - **C**
 - **Java**
@@ -23,3 +23,11 @@ I've made a simple scratch game which take themes on **Balinese culture and trad
 
 ## Languages🌐
 **Speaking and learning :** Indonesian, English, Japanese, German
+
+<div align="right">
+
+Best regards,
+
+OriontDev
+
+</div>
