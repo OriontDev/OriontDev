@@ -30,7 +30,7 @@ A `platformer game` im currently working on, takes theme on **geography and coun
 
 <h3>----------💻Languages💻-----------</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,java,py,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,java,js,md)](https://skillicons.dev)
 
 </div>
 
