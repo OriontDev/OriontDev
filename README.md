@@ -19,7 +19,7 @@ a simple `RPG` game which take themes on **Balinese culture and tradition**! it 
 A `platformer game` im currently working on, takes theme on **geography and countryballs** with the goal of sending `PolandBall` into space! The game is not finished yet and i'm working on this in `Construct 3`
 <div align="center">
 
-[![My Construct 3 project](https://raw.githubusercontent.com/OriontDev/OriontDev/refs/heads/main/Images/Images3.png)](https://scratch.mit.edu/projects/1098043166)
+[![My Construct 3 project](https://raw.githubusercontent.com/OriontDev/OriontDev/refs/heads/main/Images/Image4.png)](https://oriontfedora.itch.io/polandspace)
 
 </div>
 </br>
