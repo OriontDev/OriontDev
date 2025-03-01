@@ -38,7 +38,7 @@ A `platformer game` im currently working on, takes theme on **geography and coun
 
 <h3>----------🔧Tools i use🔧----------</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=robloxstudio,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio,vscode,github,godot)](https://skillicons.dev)
 
 </div>
 
