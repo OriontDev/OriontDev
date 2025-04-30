@@ -49,6 +49,8 @@ A `platformer game` im currently working on, takes theme on **geography and coun
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/oriont_macc/?igsh=MWQ1bXhhM296YXlvOA%3D%3D#)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:madeoriontfedora@gmail.com)
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/madeoriont.fedora/)
+
 
 </div>
 
