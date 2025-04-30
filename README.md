@@ -11,7 +11,7 @@ a simple `RPG` game which take themes on **Balinese culture and tradition**! it 
 
 <div align="center">
 
-[![My scratch project](https://raw.githubusercontent.com/OriontDev/OriontDev/refs/heads/main/Images/Image2.png)](https://scratch.mit.edu/projects/1098043166)
+[![My scratch project](https://raw.githubusercontent.com/OriontDev/OriontDev/refs/heads/main/Images/Images2.png)](https://scratch.mit.edu/projects/1098043166)
 
 </div>
 
