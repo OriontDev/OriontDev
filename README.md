@@ -31,6 +31,7 @@ A `platformer game` im currently working on, takes theme on **geography and coun
 <h3>--💻Languages, Frameworks, etc💻--</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=java,lua,md,react)](https://skillicons.dev)
 
 
