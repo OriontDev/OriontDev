@@ -30,7 +30,9 @@ A `platformer game` im currently working on, takes theme on **geography and coun
 
 <h3>--💻Languages, Frameworks, etc💻--</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,java,lua,md,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,lua,md,react)](https://skillicons.dev)
+
 
 </div>
 
@@ -38,7 +40,7 @@ A `platformer game` im currently working on, takes theme on **geography and coun
 
 <h3>----------🔧Tools i use🔧----------</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=robloxstudio,vscode,github,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio,vscode,github,godot,firebase)](https://skillicons.dev)
 
 </div>
 
